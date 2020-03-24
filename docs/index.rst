@@ -5,6 +5,7 @@
    :maxdepth: 2
    :caption: Contents:
 
+   principles
 
 Indices and tables
 ==================
